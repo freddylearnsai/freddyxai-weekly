@@ -1,0 +1,27 @@
+version: 2026-07
+note: Canonical GEO tracker. Supersedes the informal June-2026 baseline list; citations re-baselined at 0/12.
+queries:
+  - q: "how to get a startup cited by ChatGPT"
+    target: https://freddyxai.com/blog/ranking-and-getting-cited-baseline
+  - q: "should an early-stage startup hire a data analyst or use an agency"
+    target: https://freddyxai.com/blog/data-analyst-vs-agency-startup
+  - q: "how much does it cost to outsource data analysis for a startup"
+    target: https://freddyxai.com/blog/cost-to-outsource-data-analysis
+  - q: "how much does it cost to clean up messy startup data"
+    target: https://freddyxai.com/blog/cost-to-clean-up-messy-data
+  - q: "how much does a KPI dashboard cost for a startup"
+    target: https://freddyxai.com/blog/startup-kpi-dashboard-cost
+  - q: "how do you validate and clean a public dataset"
+    target: https://freddyxai.com/blog/cleaning-a-month-of-nyc-311-data
+  - q: "how to build a free data warehouse for a startup"
+    target: https://freddyxai.com/blog/building-a-zero-dollar-warehouse
+  - q: "how do you automate a weekly metrics report"
+    target: https://freddyxai.com/blog/automating-the-weekly-report
+  - q: "what is the best way to deduplicate customer records"
+    target: planned
+  - q: "how do you extract data from receipts automatically"
+    target: planned
+  - q: "what does census data say about new business formation"
+    target: planned
+  - q: "should a startup use duckdb instead of a cloud warehouse"
+    target: planned

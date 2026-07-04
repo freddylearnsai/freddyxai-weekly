@@ -2,7 +2,9 @@
 
 freddyxai's own weekly metrics report, generated and committed automatically — live site stats plus the canonical 12-query GEO tracker. Built in public by [freddyxai](https://freddyxai.com/work-with-me).
 
-Status: build in progress. Receipts land in `receipts.md` when the first run completes.
+**Receipts:** see [receipts.md](receipts.md) — every number measured, honest labels included. The report regenerates every Monday 07:00 UTC via GitHub Actions — see [the workflow](.github/workflows/weekly.yml) and [run history](https://github.com/freddylearnsai/freddyxai-weekly/actions).
+
+Built by [freddyxai](https://freddyxai.com) — your data team, on demand. This is the shape of a [$1,000–$2,000 automation build](https://freddyxai.com/work-with-me): a report that writes itself, every Monday, for $0/month.
 
 ## The tracker
 

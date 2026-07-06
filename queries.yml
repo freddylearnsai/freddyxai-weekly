@@ -18,10 +18,10 @@ queries:
   - q: "how do you automate a weekly metrics report"
     target: https://freddyxai.com/blog/automating-the-weekly-report
   - q: "what is the best way to deduplicate customer records"
-    target: planned
+    target: https://freddyxai.com/blog/deduplicate-customer-records
   - q: "how do you extract data from receipts automatically"
-    target: planned
+    target: https://freddyxai.com/blog/extract-data-from-receipts
   - q: "what does census data say about new business formation"
-    target: planned
+    target: https://freddyxai.com/blog/is-the-business-boom-real
   - q: "should a startup use duckdb instead of a cloud warehouse"
-    target: planned
+    target: https://freddyxai.com/blog/duckdb-vs-cloud-warehouse

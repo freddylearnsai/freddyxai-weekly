@@ -15,3 +15,14 @@ Built by [freddyxai](https://freddyxai.com) — your data team, on demand. This 
 ```bash
 python3 report.py   # writes reports/<ISO-week>.md from live site + tracker data
 ```
+
+## Manual scoreboard (the ~10-minute monthly routine)
+
+The automated tracker can't sit inside ChatGPT/Perplexity/Claude — you can. Once a month:
+
+1. Open the [scoreboard](https://freddylearnsai.github.io/freddyxai-weekly/) and expand the run sheet.
+2. Paste each query into each assistant in a **fresh chat**, no priming. "Cited" = the answer or its sources name freddyxai / freddyxai.com.
+3. Append one session to `manual/checks.json` (never edit past sessions).
+4. `python3 dashboard.py`, commit, push. Monday's cron also re-renders the page.
+
+Unchecked cells render as unchecked — the dashboard never assumes a result.

@@ -1,0 +1,12 @@
+{
+  "_readme": "Append-only log of MANUAL AI-assistant checks. One session per sitting: paste each query into each assistant in a fresh chat, record cited=true only if the answer or its sources name freddyxai / freddyxai.com. Never edit past sessions; add a new one. Then run `python3 dashboard.py` and commit (Monday's cron also re-renders).",
+  "assistants": ["ChatGPT", "Perplexity", "Claude", "Google AI Overview"],
+  "extended_queries": [
+    "how to clean messy startup data without a data team",
+    "cheapest way to get dashboards built for a SaaS startup",
+    "fractional data team vs full-time analyst for a startup",
+    "do I need a data engineer at seed stage",
+    "can I automate weekly reporting without an analyst"
+  ],
+  "sessions": []
+}
